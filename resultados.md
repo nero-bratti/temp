@@ -18,3 +18,5 @@ Teste para quando é mais de 10 scores -- então deve testar a pontuação para 
     caso igual -- não há especificação
 
 Maria Eduarda Weiland Machado Bratti
+Bruno Souza Sá Brito
+Vitor Moreira Batista
